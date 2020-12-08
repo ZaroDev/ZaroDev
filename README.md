@@ -19,5 +19,9 @@
 [<img align="left" alt="VS" width="26px" src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" />]
 
 
+
+
+</details>
+
 [twitter]: https://twitter.com/victorzaro_
 [instagram]: https://www.instagram.com/victorzaro_/
