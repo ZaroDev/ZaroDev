@@ -13,14 +13,6 @@
 
 <br />
 
-### Languages and Tools:
-
-[<img align="left" alt="C" width="26px" src="https://www.pinclipart.com/picdir/middle/396-3965857_c-c-programming-language-logo-clipart.png" />]
-[<img align="left" alt="VS" width="26px" src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" />]
-
-
-
-
 </details>
 
 [twitter]: https://twitter.com/victorzaro_
