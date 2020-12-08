@@ -11,6 +11,8 @@
 [<img align="left" alt="ZaroDev | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="ZaroDev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+<br />
+
 ### Tools I use:
 
 [<img align="left" alt= "VS" width = "22px" src = "https://seeklogo.com/images/V/visual-studio-logo-14F95CF819-seeklogo.com.png"/>]
@@ -22,4 +24,3 @@
 
 [twitter]: https://twitter.com/victorzaro_
 [instagram]: https://www.instagram.com/victorzaro_/
-
