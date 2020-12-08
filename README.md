@@ -21,7 +21,8 @@
 
 <br />
 
-### GitHub Stats
+<details>
+  <summary>:zap: GitHub Stats</summary>
 
 <img align="left" alt="ZaroDev's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ZaroDev&show_icons=true&hide_border=true" />
 
