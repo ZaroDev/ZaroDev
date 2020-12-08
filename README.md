@@ -15,8 +15,8 @@
 
 ### Tools I use:
 
-<img align="left" alt= "25px" width = "25px" src = "https://seeklogo.com/images/V/visual-studio-logo-14F95CF819-seeklogo.com.png"/>
-<img align="center" alt= "25px" width = "30px" src = "https://www.pngkit.com/png/full/101-1010012_c-programming-icon-c-programming-language-logo.png"/>
+<img align="center" alt= "40px" width = "50px" src = "https://seeklogo.com/images/V/visual-studio-logo-14F95CF819-seeklogo.com.png"/>
+<img align="center" alt= "40px" width = "50px" src = "https://www.pngkit.com/png/full/101-1010012_c-programming-icon-c-programming-language-logo.png"/>
 
 <br />
 
