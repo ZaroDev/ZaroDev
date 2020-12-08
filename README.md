@@ -1,7 +1,4 @@
-### Hi there, I'm Victor - aka [codeSTACKr] 👋
-
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+### Hi there, I'm Victor - aka ZaroDev 👋
 
 ## I'm a videogames development student!!
 
@@ -18,8 +15,8 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />]
-[<img align="left" alt="VS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vs/vs.png" />]
+[<img align="left" alt="C" width="26px" src="https://www.pinclipart.com/picdir/middle/396-3965857_c-c-programming-language-logo-clipart.png" />]
+[<img align="left" alt="VS" width="26px" src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" />]
 
 
 [twitter]: https://twitter.com/victorzaro_
