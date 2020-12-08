@@ -15,8 +15,8 @@
 
 ### Tools I use:
 
-[<img align="left" alt= "25px" width = "25px" src = "https://seeklogo.com/images/V/visual-studio-logo-14F95CF819-seeklogo.com.png"/>]
-[<img align="center" alt= "25px" width = "25px" src = "https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"/>]
+<img align="left" alt= "25px" width = "25px" src = "https://seeklogo.com/images/V/visual-studio-logo-14F95CF819-seeklogo.com.png"/>
+<img align="center" alt= "25px" width = "25px" src = "https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"/>
 
 <br />
 
