@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning C & C++
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2020 Goals: Make my first game
+- 🥅 2021 Goals: Make my first game
 
 ### Connect with me:
 
