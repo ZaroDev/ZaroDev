@@ -23,7 +23,6 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-<img align="center" alt="ZaroDev's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ZaroDev&show_icons=true&hide_border=true" />
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZaroDev)](https://github.com/anuraghazra/github-readme-stats)
 [twitter]: https://twitter.com/victorzaro_
 [instagram]: https://www.instagram.com/victorzaro_/
