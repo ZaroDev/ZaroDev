@@ -2,9 +2,8 @@
 
 ## I'm a videogames development student!!
 
-- 🌱 I’m currently learning C & C++
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Make my first game
+- 🌱 I’m currently learning Game Development
+- 🥅 2022 Goals: Join a few game jams
 
 ### Connect with me:
 
