@@ -17,8 +17,11 @@
 <img align="left" alt= "Visual Studio" width = "50px" src = "https://seeklogo.com/images/V/visual-studio-logo-14F95CF819-seeklogo.com.png"/>
 <img align="left" alt= "C" width = "50px" src = "https://www.pngkit.com/png/full/101-1010012_c-programming-icon-c-programming-language-logo.png"/>
 <img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />  
-  
-### 
+
+
+
+
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
