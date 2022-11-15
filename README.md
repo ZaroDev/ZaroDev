@@ -1,31 +1,50 @@
-# Hi there, I'm Victor - aka ZaroDev 👋
+# Hi there, I'm Víctor! 👋
 
-## I'm a videogames development student!!
-
-- 🌱 I’m currently learning Game Development
-- 🥅 2022 Goals: Join a few game jams
-
-### Connect with me:
-
-[<img align="left" alt="ZaroDev | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="ZaroDev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
-### Tools I use:
-
-<img align="left" alt= "Visual Studio" width = "50px" src = "https://seeklogo.com/images/V/visual-studio-logo-14F95CF819-seeklogo.com.png"/>
-<img align="left" alt= "C" width = "50px" src = "https://www.pngkit.com/png/full/101-1010012_c-programming-icon-c-programming-language-logo.png"/>
-<img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />  
+- 🌱 Studying Videogame Design and Development at CITM(UPC).
+- 🕹️ Interested in getting an Internship in the video games industry.
+- 💬 Ask me about anything you want!
 
 
+## Contact me 📫
+[<img align="left" alt="victorzaro | Twitter" width="30px" src="https://img.icons8.com/color/344/twitter--v1.png" />][twitter]
+[<img align="left" alt="victorzaro | Discord" width="30px" src="https://img.icons8.com/color/344/discord-logo.png" />][discord]
 
+<br>
+<br>
 
+## I'm learning...
+<img align="left" alt="C" width="30px" src="https://img.icons8.com/color/344/c-programming.png"/>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+<img align="left" alt="C#" width="30px" src="https://img.icons8.com/color/344/c-sharp-logo.png"/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZaroDev)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" alt="C++" width="30px" src="https://img.icons8.com/color/344/c-plus-plus-logo.png"/>
+
+<img align="left" alt="Flutter" width="30px" src="https://img.icons8.com/color/344/flutter.png"/>
+
+<img align="left" alt="Dart" width="30px" src="https://img.icons8.com/color/344/dart.png"/>
+
+<br>
+<br>
+
+## Tools I use 🔧
+<img align="left" alt= "C++" width = "30px" src = "https://img.icons8.com/color/344/github--v1.png"/>
+
+<img align="left" alt="Unity" width="30px" src="https://img.icons8.com/color/344/unity.png"/>
+
+<img align="left" alt="VS" width="30px" src="https://img.icons8.com/color/344/visual-studio--v2.png"/>
+
+<img align="left" alt="Maya" width="30px" src="https://img.icons8.com/color/344/autodesk-maya.png"/>
+
+<img align="left" alt="PS" width="30px" src="https://img.icons8.com/color/344/adobe-photoshop--v1.png"/>
+
+<img align="left" alt="AI" width="30px" src="https://img.icons8.com/color/344/adobe-illustrator--v1.png"/>
+
+<img align="left" alt="PP" width="30px" src="https://img.icons8.com/color/344/adobe-premiere-pro--v1.png"/>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=zarodev)](https://github.com/anuraghazra/github-readme-stats)
   
 [twitter]: https://twitter.com/victorzaro_
-[instagram]: https://www.instagram.com/victorzaro_/
+[discord]: https://discord.com/users/Zaro#6083
