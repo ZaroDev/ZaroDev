@@ -3,7 +3,7 @@
 - 🌱 Studying Videogame Design and Development at CITM(UPC).
 - 🕹️ Interested in getting an Internship in the video games industry.
 - 💬 Ask me about anything you want!
-
+- ℹ️ Checkout my portfolio <a href="https://zarodev.github.io/">here</a>!
 
 ## Contact me 📫
 [<img align="left" alt="victorzaro | Twitter" width="30px" src="https://img.icons8.com/color/344/twitter--v1.png" />][twitter]
