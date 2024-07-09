@@ -12,7 +12,7 @@
 <br>
 <br>
 
-## I'm learning...
+## Things I know
 <img align="left" alt="C" width="30px" src="https://img.icons8.com/color/344/c-programming.png"/>
 
 <img align="left" alt="C#" width="30px" src="https://img.icons8.com/color/344/c-sharp-logo.png"/>
@@ -22,6 +22,9 @@
 <img align="left" alt="Flutter" width="30px" src="https://img.icons8.com/color/344/flutter.png"/>
 
 <img align="left" alt="Dart" width="30px" src="https://img.icons8.com/color/344/dart.png"/>
+
+<img align="left" alt="Unreal" width="30px" src="https://img.icons8.com/color/344/unreal-engine.png"/>
+<img align="left" alt="Unity" width="30px" src="https://img.icons8.com/color/344/unity.png"/>
 
 <br>
 <br>
