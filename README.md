@@ -12,7 +12,7 @@
 <br>
 <br>
 
-## Things I know
+## Tools I use 🔧
 <img align="left" alt="C" width="30px" src="https://img.icons8.com/color/344/c-programming.png"/>
 
 <img align="left" alt="C#" width="30px" src="https://img.icons8.com/color/344/c-sharp-logo.png"/>
@@ -23,13 +23,6 @@
 
 <img align="left" alt="Dart" width="30px" src="https://img.icons8.com/color/344/dart.png"/>
 
-<img align="left" alt="Unreal" width="30px" src="https://img.icons8.com/color/344/unreal-engine.png"/>
-<img align="left" alt="Unity" width="30px" src="https://img.icons8.com/color/344/unity.png"/>
-
-<br>
-<br>
-
-## Tools I use 🔧
 <img align="left" alt= "C++" width = "30px" src = "https://img.icons8.com/color/344/github--v1.png"/>
 
 <img align="left" alt="Unity" width="30px" src="https://img.icons8.com/color/344/unity.png"/>
@@ -43,6 +36,8 @@
 <img align="left" alt="AI" width="30px" src="https://img.icons8.com/color/344/adobe-illustrator--v1.png"/>
 
 <img align="left" alt="PP" width="30px" src="https://img.icons8.com/color/344/adobe-premiere-pro--v1.png"/>
+
+<img align="left" alt="Unreal" width="30px" src="https://img.icons8.com/color/344/unreal-engine.png"/>
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
