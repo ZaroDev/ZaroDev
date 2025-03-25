@@ -1,7 +1,6 @@
 # Hi there, I'm Víctor! 👋
 
-- 🌱 Graduated in Videogame Design and Development at CITM(UPC).
-- 🕹️ Interested in getting a new opportunities in the Game Industry,
+- 🌱 I'm a engine and graphics programmer working on my own projects on my spare time.
 - 💬 Ask me about anything you want!
 - ℹ️ Checkout my portfolio <a href="https://zarodev.github.io/">here</a>!
 
